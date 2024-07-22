@@ -83,7 +83,25 @@ Projeyi IDE'nizde açın ve `Main` sınıfını çalıştırın.
 
 <p align="justify"> 
 
-### Login Ekranı
+### Book Veritabanı
+
+![](Pictures/books.png)
+
+### Book Veritabanı
+
+![](Pictures/categories.png)
+
+### Yayınevi Veritabanı
+
+![](Pictures/publisher.png)
+
+### Kitap Ödünç Alma Veritabanı
+
+![](Pictures/book_borrowing.png)
+
+### Yazar Veritabanı
+
+![](Pictures/authors.png)
 
 </p>
 
