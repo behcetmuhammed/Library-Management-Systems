@@ -58,6 +58,6 @@ public class Main {
 
         transaction.commit();
 
-        System.out.println("Sistem Çalışması Bitti");
+        System.out.println("\nSistem Çalışması Bitti");
     }
 }
